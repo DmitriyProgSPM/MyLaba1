@@ -279,4 +279,4 @@ void Laba4(std::list<std::string> text)
     Task5Search(text, &KMPSearch);
 }
 
-
+https://github.com/DmitriyProgSPM/MyLaba1/blob/main/%D0%9E%D1%82%D1%87%D1%91%D1%82%20%D0%BF%D0%BE%20Lab4.docx  ОТЧЁТ
