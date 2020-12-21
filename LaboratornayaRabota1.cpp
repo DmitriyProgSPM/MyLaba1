@@ -107,4 +107,4 @@ int main()
 	return 0;
 }
 
-https://github.com/DmitriyProgSPM/MyLaba1/blob/main/%D0%9E%D1%82%D1%87%D1%91%D1%82%20%D0%BF%D0%BE%20Lab1.docx      ОТЧЁТ
+//https://github.com/DmitriyProgSPM/MyLaba1/blob/main/%D0%9E%D1%82%D1%87%D1%91%D1%82%20%D0%BF%D0%BE%20Lab1.docx      ОТЧЁТ
